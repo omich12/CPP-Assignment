@@ -49,6 +49,7 @@ int main()
     emp1.setSalary(4);
 
     cout << endl;
+    
     cout << "After Performance Review: " << endl;
     cout << "=================================: " << endl;
     emp.display();
